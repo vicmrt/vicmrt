@@ -1,7 +1,7 @@
 # Victor Ramos
 ## 👨 Sobre Mim
 <span style="font-size:1.03em;">   Formado em <strong>Licenciatura em Matemática</strong>, sempre gostei de entender como as pessoas absorvem conhecimento. Sou diretor de bateria de escola de samba, e voluntário em uma escola da rede pública. <br>
-Profissionalmente, cresci nas áreas de <strong>Análise de Dados</strong> e <strong>Análise de Negócios</strong>, impactando positivamente as empresas que passei. Hoje, estou dedicado a aprender programação para aumentar meus conhecimentos como <strong>Analista de Dados e Negócios</strong> e <strong>Programador</strong> .</span>
+Profissionalmente, cresci nas áreas de <strong>Análise de Dados</strong> e <strong>Análise de Negócios</strong>, impactando positivamente as empresas que passei. Hoje, estou dedicado a aprender programação para aumentar meus conhecimentos como <strong>Programador</strong> .</span>
 
 ## Meus contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ramos-t/)
